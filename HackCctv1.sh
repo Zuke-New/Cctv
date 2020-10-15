@@ -1,6 +1,5 @@
-#!/system/bin/bash/
-#Hay Pemalas Mau Nyuri
-clear
+#!/bin/bash/
+#Cctv
 
 blue='\033[34;1m'
 green='\033[32;1m'                               >
